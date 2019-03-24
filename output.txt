@@ -1,0 +1,10 @@
+String: Md. Tareq Zaman, Part-3, 2019
+
+The Number of Words is: 5
+The Number of Letters is: 16
+The Number of Digits is: 5
+The Number of Other Characters is: 9
+Letters: M d T a r e q Z m n P t 
+Digits: 3 2 0 1 9 
+Other Characters: .     ,   - ,   
+ 
